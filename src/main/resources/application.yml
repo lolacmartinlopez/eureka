@@ -5,4 +5,4 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
   instance:
-    hostname: ${EUREKA_HOST:eureka-production-grupo2-202324.up.railway.app}
+    hostname: ${EUREKA_HOST:localhost}
